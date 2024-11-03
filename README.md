@@ -34,6 +34,7 @@ For Hardware:
 
 ### Implementation
 For Software:
+
 # Installation
 None
 
@@ -53,6 +54,11 @@ Page that shows how much days, hours, minutes and seconds are left for the Dooms
 
 ![Screenshot 2024-11-03 062418](https://github.com/user-attachments/assets/8a54dc35-a05e-49ca-9e47-64e6728d8576)
 The page that prints if the user input the same input multiple times
+
+![Screenshot 2024-11-03 062530](https://github.com/user-attachments/assets/b3e59ebb-310d-4fea-acde-96f63251803b)
+This page shows when you want to destroy Earth
+
+
 
 ## Team Contributions
 - Abel S Mathew : HTML,CSS,Java Script
