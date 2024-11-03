@@ -3,7 +3,7 @@ function getRandomDate(start, end) {
     return new Date(randomTimestamp);
 }
 
-const startDate = new Date(2024, 0, 1).getTime(); 
+const startDate = new Date(2024, 10, 1).getTime(); 
 const endDate = new Date(2025, 0, 1).getTime(); 
 
 const randomDate = getRandomDate(startDate, endDate);
